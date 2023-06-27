@@ -1,0 +1,7 @@
+##First Start with :
+g= sGlobal()
+
+##Then within an iterative statement such as "For i in Range()":
+for i in range():
+  iteration=g[f"{i}"}
+  print(iterations)
